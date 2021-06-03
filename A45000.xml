@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The humble petition of divers noblemen and gentlemen, estated in Ireland, and now at London, presented to His Maiestie at York together with His Majesties answer thereunto, March 28, 1642.</title>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A45000</idno><idno type="EEBO-CITATION">11773595</idno>
+  <idno type="VID">48904</idno>
+  <idno type="EEBO-PROQUEST">2240870569</idno>
+  
+            <idno type="STC">Wing H3458</idno>
+            <idno type="STC">ESTC R20483</idno>
+            <idno type="OCLC">11773595</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A45000)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 48904)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 538:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The humble petition of divers noblemen and gentlemen, estated in Ireland, and now at London, presented to His Maiestie at York together with His Majesties answer thereunto, March 28, 1642.</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Robert Barker ... and by the assignes of John Bill,</publisher>
+                  <pubPlace>York :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The answer of King Charles I: "At the court at York, 28 Martii, 1642 ..." and is signed Master Secretary Nicholas. p. 5-6 at end.</note>
+                  <note>Reproduction of original in Bristol Public Library, Bristol, England.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Simon Charles </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Simon Charles</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:48904:1"/>
+            <p>The humble PETITION OF Divers Noblemen and Gentlemen, estated in <hi>Ireland,</hi> now at <hi>London.</hi> Presented to His MAIESTIE at YORK. Together With His Majesties Answer thereunto. March 28. 1642.</p>
+            <p>YORK: Printed by ROBERT BARKER, Printer to the Kings most Excellent Majestie: And by the Assignes of JOHN BILL. 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="petition">
+            <pb facs="tcp:48904:2"/>
+            <pb n="1" facs="tcp:48904:2"/>
+            <div type="petition">
+               <head>TO THE KINGS MOST EXCELLENT MAJESTIE.</head>
+               <head>The humble Petition of divers Noblemen and Gentlemen, estated in <hi>Ireland,</hi> now at <hi>London,</hi>
+               </head>
+               <opener>Humbly sheweth,</opener>
+               <p>
+                  <seg rend="decorInit">T</seg>Hat most of Your Petitio<g ref="char:EOLhyphen"/>ners, and many thousands of Your Majesties most faithfull Subjects, and late Inhabitants of Your King<g ref="char:EOLhyphen"/>dom of <hi>Ireland,</hi> being robbed and spoiled of all their substance (and thereby many of them reduced to a most miserable con<g ref="char:EOLhyphen"/>dition, who formerly faithfully served your Majestie) are now enforced to flie into this Kingdom, by occasion of the unexampled bloody and inhumane Cru<g ref="char:EOLhyphen"/>elties of the Rebels of that Kingdom, who
+<pb n="2" facs="tcp:48904:3"/> through the instigation of popish Priests, Fryers, and Iesuits, and other malignant persons, have risen in Armes in that King<g ref="char:EOLhyphen"/>dom, against your Majesties Crown and Dignity, and destroyed or banished al<g ref="char:EOLhyphen"/>most all your Majesties loyall and dutifull Subjects, the Protestants there, for no other cause, but for that they do not wor<g ref="char:EOLhyphen"/>ship God after their idolatrous and super<g ref="char:EOLhyphen"/>stitious manner; which is manifest by their publique Declarations, Speeches, Oaths, and Confederacies (albeit some few other fond Pretences are added to glosse their most barbarous actions) That these four moneths past, the expectation of power<g ref="char:EOLhyphen"/>full Supplies, Treasure, and Amunicion from <hi>England</hi> and <hi>Scotland,</hi> hath support<g ref="char:EOLhyphen"/>ed the drooping and languishing Spirits of your Petitioners, and others, the Prote<g ref="char:EOLhyphen"/>stants interressed in that Kingdom; who finding but small Succours hitherto sent thither, notwithstanding the severall Or<g ref="char:EOLhyphen"/>ders of both Houses of Parliament, do now, with unspeakable grief of heart, ap<g ref="char:EOLhyphen"/>prehend nothing but despair of ever being restored to their habitations, if your Ma<g ref="char:EOLhyphen"/>jestie
+<pb n="3" facs="tcp:48904:3"/> be not graciously pleased to give Life and Power to the painfull endevours of both Hou<g ref="char:EOLhyphen"/>ses of Parliament; the prosecution of that War necessarily requiring a great sum of Money to be presently raised. And in all humility, the Petitioners conceive the Act lately passed by Your Maiesties Royall Grace and Goodnesse (upon the Propositions made by those who shall adventure their Moneys) to be the onely way left for raising present Money for that work: And they finde that the removall of your Sacred Maiestie to places so remote and distant from the Parliament, doth much discourage the Adventurers in advancing Money for ef<g ref="char:EOLhyphen"/>fectuall proceeding in the work, &amp; consequent<g ref="char:EOLhyphen"/>ly will be a means unavoidably to retard the long expected Supplies, contrary to your Ma<g ref="char:EOLhyphen"/>iesties Royall Intentions often expressed, and will much encourage the Rebels and their Ad<g ref="char:EOLhyphen"/>herents in that Kingdom; and may, in the opi<g ref="char:EOLhyphen"/>nion of some, as they fear, gain a beleef of those false reports which divers of the Rebels have taken the boldnesse to raise, even very lately, since the publishing of your Maiesties Proclamation for suppressing the Rebels, That they are your Majesties Souldiers, and that the
+<pb n="4" facs="tcp:48904:4"/> Supplies that arived there, were but the Parlia<g ref="char:EOLhyphen"/>ment Supplies. And your Petitioners further humbly shew, That if strong Forces be not pre<g ref="char:EOLhyphen"/>sently raised and transported thither (the season of the yeer now serving) the Brittish and Prote<g ref="char:EOLhyphen"/>stants in that Kingdom cannot long subsist, but will be extirpated, and Papists, and the idola<g ref="char:EOLhyphen"/>trous Masse thereby established; which is alrea<g ref="char:EOLhyphen"/>dy publikely used in most of the Churches of that Kingdom.</p>
+               <p>May it therefore please Your most Sacred Majestie to reflect upon the desperate and mise<g ref="char:EOLhyphen"/>rable Condition of that poor Kingdom, and weighing the Premises, and other the Conse<g ref="char:EOLhyphen"/>quences of delaying the effectuall setting for<g ref="char:EOLhyphen"/>ward of the War against the Rebels in <hi>Ireland,</hi> of Your Princely Goodnesse and Wisdom to vouchsafe Your Majesties Presence unto Your Parliament, for the encouragement of the Ad<g ref="char:EOLhyphen"/>venturers and all other Your Maiesties good Sub<g ref="char:EOLhyphen"/>iects in this pious work, for the Discourage<g ref="char:EOLhyphen"/>ment of the Rebels, and for expediting such further Acts, Commissions, or Warrants to issue, as shall be requisite for the preservation of the remnant of your good Subjects, the Prote<g ref="char:EOLhyphen"/>stants yet left in <hi>Ireland,</hi> or driven for the present thereout. <hi>And your Suppliants will pray, &amp;c.</hi>
+               </p>
+            </div>
+            <div type="answer">
+               <pb n="5" facs="tcp:48904:4"/>
+               <opener>
+                  <dateline>At the Court at York. <date>28. Martii, 1642.</date>
+                  </dateline>
+               </opener>
+               <opener>His Majestie hath given me expresse Command to give you this His An<g ref="char:EOLhyphen"/>swer to your Petition.</opener>
+               <p>
+                  <seg rend="decorInit">T</seg>Hat this Petition (as some others of this nature) is grounded upon mis-in<g ref="char:EOLhyphen"/>formation, and (being grieved and highly offend<g ref="char:EOLhyphen"/>ed to see how His good People have been, and are abused by false Rumors and Intel<g ref="char:EOLhyphen"/>ligences, which have procured causelesse Fears and Apprehensions) refers the Peti<g ref="char:EOLhyphen"/>tioners to the two Answers He hath given to His Parliament, <hi>viz.</hi> To the Declarati<g ref="char:EOLhyphen"/>on presented to Him at <hi>New-Market,</hi> and to the Petition presented to Him the six and twentieth of this moneth at <hi>York:</hi>
+                  <pb n="6" facs="tcp:48904:5"/> wherein you will cleerly perceive, That His Maiestie is not gone, but driven from His Parliament: And therefore His Maiestie hath reason to think, that now (understanding the love He bears to, and Confidence He hath of, His Peoples Fi<g ref="char:EOLhyphen"/>delity; As likewise His constant Resoluti<g ref="char:EOLhyphen"/>on for the maintaining of, and governing by the Laws of the Land) you may finde reason to petition the Parliament to com<g ref="char:EOLhyphen"/>ply with His Maiesties iust Desires, and gracious Offers; this being the onely Way, safely and speedily to cure the pre<g ref="char:EOLhyphen"/>sent Distractions of this Kingdom, and (with Gods blessing) to put a happy end to the Irish Rebellion for the effecting whereof (as His Maiestie hath often said) He will neither spare pains, nor decline any hazard of His Person or Fortune.</p>
+               <closer>
+                  <signed>Signed by Master Secretary <hi>Nicholas.</hi>
+                  </signed>
+               </closer>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
